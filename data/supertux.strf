@@ -275,14 +275,14 @@
          (images "shared/badguys/iceblock/left-0.png"
                  "shared/badguys/iceblock/left-1.png"
                  "shared/badguys/iceblock/left-2.png"
-                 "shared/badguys/iceblock/left-1.png"))
+                 "shared/badguys/iceblock/left-3.png"))
  (sprite (name "mriceblock-right")
          (x-hotspot 2)
          (y-hotspot 3)
          (images "shared/badguys/iceblock/right-0.png"
                  "shared/badguys/iceblock/right-1.png"
                  "shared/badguys/iceblock/right-2.png"
-                 "shared/badguys/iceblock/right-1.png"))
+                 "shared/badguys/iceblock/right-3.png"))
  (sprite (name "mriceblock-flat-left")
          (x-hotspot 2)
          (y-hotspot 3)
@@ -299,14 +299,14 @@
          (images "shared/badguys/iceblock/smart-left-0.png"
                  "shared/badguys/iceblock/smart-left-1.png"
                  "shared/badguys/iceblock/smart-left-2.png"
-                 "shared/badguys/iceblock/smart-left-1.png"))
+                 "shared/badguys/iceblock/smart-left-3.png"))
  (sprite (name "smartblock-right")
          (x-hotspot 2)
          (y-hotspot 3)
          (images "shared/badguys/iceblock/smart-right-0.png"
                  "shared/badguys/iceblock/smart-right-1.png"
                  "shared/badguys/iceblock/smart-right-2.png"
-                 "shared/badguys/iceblock/smart-right-1.png"))
+                 "shared/badguys/iceblock/smart-right-3.png"))
  (sprite (name "smartblock-flat-left")
          (x-hotspot 2)
          (y-hotspot 3)

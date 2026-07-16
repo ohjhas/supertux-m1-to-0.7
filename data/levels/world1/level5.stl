@@ -16,6 +16,7 @@
   (bkgd_green_bottom  150)
   (bkgd_blue_bottom   150)
   (time  300)
+  (back_scrolling #t)
   (gravity  10.0)
   (particle_system "")
   (theme "antarctica")

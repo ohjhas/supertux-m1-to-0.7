@@ -14,6 +14,7 @@
   (bkgd_green_bottom 150)
   (bkgd_blue_bottom 150)
   (time 300)
+  (back_scrolling #t)
   (width 500)
   (back_scrolling #f)
   (hor_autoscroll_speed 0.0)

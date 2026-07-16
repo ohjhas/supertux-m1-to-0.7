@@ -313,7 +313,7 @@ void title(void)
 	
 #ifndef RES320X240
       white_small_text->draw(" SuperTux " VERSION "\n"
-                             "Copyright (c) 2003 SuperTux Devel Team, fork by uncertain_luei\n"
+                             "Copyright (c) 2003 SuperTux Devel Team, fork by soil, og luei\n"
                              "This game comes with ABSOLUTELY NO WARRANTY. This is free software, and you\n"
                              "are welcome to redistribute it under certain conditions; see the file COPYING\n"
                              "for details.\n",

@@ -32,14 +32,14 @@
          (fps 15.0)
          (x-hotspot 5)
          (y-hotspot 9)
-         (images "shared/smalltux-left-6.png"
+         (images "shared/smalltux-stand-left.png"
                  ))
 
  (sprite (name "smalltux-stand-right")
          (fps 15.0)
          (x-hotspot 5)
          (y-hotspot 9)
-         (images "shared/smalltux-right-6.png"))
+         (images "shared/smalltux-stand-right.png"))
 
  ;; Small Tux Jump
  (sprite (name "smalltux-jump-left")
@@ -60,7 +60,9 @@
          (x-hotspot 13)
          (y-hotspot 6)
          (images "shared/smalltux-gameover-0.png"
-                 "shared/smalltux-gameover-1.png"))
+                 "shared/smalltux-gameover-1.png"
+                 "shared/smalltux-gameover-2.png"
+                 "shared/smalltux-gameover-3.png"))
 
  (sprite (name "smalltux-skid-left")
          (x-hotspot 6)

@@ -6,9 +6,10 @@ Super Mario Bros. games for the various Nintendo platforms.
 Run and jump through multiple worlds, fighting off enemies by jumping
 on them or bumping them from below, grabbing power-ups and other stuff on the way.
 
-This is a **fork** of the latest version of Milestone 1 containing changes that fix gripes and oddities within the version while also adding newer (and sometimes older) features whilst reasonably keeping the original direction.
+This is a fork of the original Milestone 1 version, modified to make it look like the most recent version as of now, v0.7.0.
 
-![Screenshot](https://www.supertux.org/images/supertux-0.1.3-6.png)
+<img width="640" height="480" alt="Sin título" src="https://github.com/user-attachments/assets/608ddbf3-dad9-4ab1-84d4-efb606c2b4bf" />
+
 
 
 ## Story: Penny gets captured!
@@ -40,7 +41,7 @@ Important documentation for SuperTux is contained in multiple files.
 Please see them:
 
 * `README.md` - This file
-* `INSTALL` - Requirements, compiling and installing.
+* `building.md` - Requirements, compiling and installing.
 * `COPYING` - The GNU General Public License, under whose terms SuperTux is
 licensed. (Most of the data subdirectory is also licensed under
 CC-by-SA)
